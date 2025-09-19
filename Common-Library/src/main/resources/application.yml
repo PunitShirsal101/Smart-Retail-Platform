@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Common-Library
+server:
+  port: 8086
