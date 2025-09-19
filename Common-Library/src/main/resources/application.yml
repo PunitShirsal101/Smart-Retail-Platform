@@ -1,5 +1,7 @@
 spring:
   application:
     name: Common-Library
+  main:
+    banner-mode: off
 server:
   port: 8086

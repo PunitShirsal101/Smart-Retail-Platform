@@ -1,5 +1,7 @@
 spring:
   application:
     name: API-Gateway
+  main:
+    banner-mode: off
 server:
   port: 8080

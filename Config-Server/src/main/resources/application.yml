@@ -1,5 +1,7 @@
 spring:
   application:
     name: Config-Server
+  main:
+    banner-mode: off
 server:
   port: 8888

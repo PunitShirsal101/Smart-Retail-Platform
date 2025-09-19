@@ -1,5 +1,7 @@
 spring:
   application:
     name: Product-Service
+  main:
+    banner-mode: off
 server:
   port: 8084
