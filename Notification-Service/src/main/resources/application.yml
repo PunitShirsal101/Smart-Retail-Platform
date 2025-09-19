@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Notification-Service
+  main:
+    banner-mode: off
+server:
+  port: 8081
